@@ -35,4 +35,5 @@ if (isset($_POST["bestel"])) {
                 echo "gekozen item:" . $_COOKIE[$bestel];
     }
 }
+
 ?>
